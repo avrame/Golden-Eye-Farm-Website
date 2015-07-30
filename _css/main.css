@@ -1,0 +1,31 @@
+body {
+  padding-top: 50px;
+}
+
+h1 {
+  font-family: 'Tangerine', cursive;
+}
+
+.jumbotron {
+  color: #FFF;
+  text-shadow: 2px 2px 2px #000;
+  background: transparent url(../_img/panorama.jpg) no-repeat scroll center;
+  background-size: cover;
+}
+
+.jumbotron .btn {
+  text-shadow: none;
+}
+
+#logo {
+  float: left;
+  padding-right: 16px;
+}
+
+.photo-gallery {
+  margin-top: 30px;
+}
+.photo-gallery img {
+  width: 100%;
+  margin-bottom: 30px;
+}
