@@ -25,13 +25,26 @@ h1 {
 }
 
 /* Photo Gallery */
-.photo-gallery {
-  margin-top: 30px;
+.photos-page {
+  background-color: #E7E7E7;
+}
+.photo-gallery ul {
+  list-style: none;
+}
+.photo-gallery li {
+  background-color: #FFF;
+  text-align: center;
+  line-height: 1.25;
+  padding: 1rem;
+  margin-bottom: 30px;
+  box-shadow: 4px 4px 8px #888;
+}
+.photo-gallery a {
+  color: #666;
 }
 .photo-gallery img {
   width: 100%;
-  margin-bottom: 30px;
-  box-shadow: 6px 6px 6px #666;
+  margin-bottom: 1rem;
 }
 
 /* Directions */
