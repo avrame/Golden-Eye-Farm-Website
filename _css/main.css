@@ -5,6 +5,17 @@ body {
 h1 {
   font-family: 'Tangerine', cursive;
 }
+h2, h3 {
+  font-family: inherit;
+  font-weight: 200;
+}
+h2 {
+  color: #444;
+  border-bottom: 1px solid #999;
+}
+h3 {
+  color: #666;
+}
 
 
 /* Home Page */
@@ -43,7 +54,7 @@ h1 {
 .photos-page {
   background-color: #E7E7E7;
 }
-.photo-gallery ul {
+.photo-gallery, .photo-gallery ul {
   list-style: none;
 }
 .photo-gallery li {
@@ -72,6 +83,16 @@ h1 {
 }
 .directions ol {
   padding-left: 1.8rem;
+}
+
+/* Amenities Page */
+.amenities-page .photo-gallery {
+  margin-top: 3rem;
+}
+@media (min-width: 992px) {
+  .amenities-page .photo-gallery {
+    margin-top: 116px;
+  }
 }
 
 /* Media Querie Overrides */
