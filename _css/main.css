@@ -8,20 +8,35 @@ h1 {
 
 
 /* Home Page */
-.jumbotron {
+.home-page .jumbotron {
   color: #FFF;
   text-shadow: 2px 2px 2px #000;
   background: transparent url(../_img/panorama.jpg) no-repeat scroll center;
   background-size: cover;
+  padding: 1rem 0;
 }
 
-.jumbotron .btn {
-  text-shadow: none;
-}
-
-#logo {
+.home-page .logo {
   float: left;
-  padding-right: 16px;
+  width: 35%;
+  min-width: 108px;
+  max-width: 220px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.home-page .stay-at-goldeneye {
+  float: none;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.home-page .stay-at-goldeneye h1 {
+  float: left;
+}
+.home-page .stay-at-goldeneye p {
+  clear: both;
+}
+.home-page .stay-at-goldeneye .btn {
+  text-shadow: none;
 }
 
 /* Photo Gallery */
@@ -57,4 +72,54 @@ h1 {
 }
 .directions ol {
   padding-left: 1.8rem;
+}
+
+/* Media Querie Overrides */
+@media (min-width: 320px) {
+  .home-page .stay-at-goldeneye h1 {
+    float: none;
+    width: auto;
+  }
+}
+@media (min-width: 375px) {
+  h1 {
+    font-size: 4rem;
+  }
+}
+@media (min-width: 414px) {
+  .home-page .logo {
+    width: 41.6667%;
+  }
+  .home-page .stay-at-goldeneye {
+    float: left;
+    width: 58.3333%;
+  }
+}
+@media (min-width: 612px) {
+  .home-page .logo {
+    width: 35%;
+  }
+  .home-page .stay-at-goldeneye {
+    width: 65%;
+  }
+}
+@media (min-height: 375px) {
+  .home-page .jumbotron {
+    padding: 3rem 0;
+  }
+}
+@media (min-height: 480px) {
+  .home-page .jumbotron {
+    padding: 6rem 0;
+  }
+}
+@media (min-height: 568px) {
+  .home-page .jumbotron {
+    padding: 10rem 0;
+  }
+}
+@media (min-height: 736px) {
+  .home-page .jumbotron {
+    padding: 12rem 0;
+  }
 }
