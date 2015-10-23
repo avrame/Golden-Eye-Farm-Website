@@ -50,6 +50,16 @@ h3 {
   text-shadow: none;
 }
 
+/* About Page */
+.about-page .photo-gallery {
+  margin-top: 3rem;
+}
+@media (min-width: 992px) {
+  .about-page .photo-gallery {
+    margin-top: 78px;
+  }
+}
+
 /* Photo Gallery */
 .photos-page {
   background-color: #E7E7E7;
