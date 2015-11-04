@@ -17,6 +17,20 @@ h3 {
   color: #666;
 }
 
+/* Nav Bar */
+.navbar-inverse {
+  background-color: #337AB7;
+  border-color: #236AA7;
+  box-shadow: 0 0 6px #666;
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: #D9D9D9;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover {
+  background-color: #286090;
+}
+
 
 /* Home Page */
 .home-page .jumbotron {
@@ -61,9 +75,6 @@ h3 {
 }
 
 /* Photo Gallery */
-.photos-page {
-  background-color: #E7E7E7;
-}
 .photo-gallery, .photo-gallery ul {
   list-style: none;
 }
@@ -141,16 +152,16 @@ h3 {
 }
 @media (min-height: 480px) {
   .home-page .jumbotron {
-    padding: 6rem 0;
+    padding: 7rem 0;
   }
 }
 @media (min-height: 568px) {
   .home-page .jumbotron {
-    padding: 10rem 0;
+    padding: 12rem 0;
   }
 }
 @media (min-height: 736px) {
   .home-page .jumbotron {
-    padding: 12rem 0;
+    padding: 20rem 0;
   }
 }
