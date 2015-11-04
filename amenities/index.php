@@ -12,7 +12,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-7">
           <h1>Amenities at Goldeneye Farm</h1>
 
           <h2>Inside</h2>
@@ -61,7 +61,7 @@
           <p>Charcoal grill provided by request (if permitted by the county fire department).</p>
         </div>
 
-        <ul class="col-md-4 photo-gallery">
+        <ul class="col-md-5 photo-gallery">
           <li>
             <a href="../_img/gallery/bathroom.jpg" data-title="Master Bathroom" data-lightbox="goldeneye">
               <img src="../_img/gallery/bathroom.jpg" />

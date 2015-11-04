@@ -12,7 +12,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-6">
           <h1>About Goldeneye Farm</h1>
           <p>
             Goldeneye Farm is a 10-acre heritage property located in the quiet
@@ -37,7 +37,7 @@
             or would like to spend their sabbatical in this inspiring place.
           </p>
         </div>
-        <ul class="col-md-4 photo-gallery">
+        <ul class="col-md-6 photo-gallery">
           <li>
             <a href="../_img/gallery/tree-and-chairs-2.jpg" data-title="Main Garden Looking Out to the Orchard" data-lightbox="goldeneye">
               <img src="../_img/gallery/tree-and-chairs-2.jpg" />

@@ -4,17 +4,18 @@ body {
 
 h1 {
   font-family: 'Tangerine', cursive;
+  color: #336;
 }
 h2, h3 {
   font-family: inherit;
   font-weight: 200;
 }
 h2 {
-  color: #444;
-  border-bottom: 1px solid #999;
+  color: #447;
+  border-bottom: 1px solid #66A;
 }
 h3 {
-  color: #666;
+  color: #669;
 }
 
 /* Nav Bar */
