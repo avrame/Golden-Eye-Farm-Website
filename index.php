@@ -17,7 +17,7 @@
           <div class="stay-at-goldeneye">
             <h1>Stay at Goldeneye Farm</h1>
             <p>Your restful getaway on beautiful Orcas Island!</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Book now on VRBO!</a></p>
+            <p><a class="btn btn-lg btn-primary" href="http://bookings.sanjuanpm.com/Unit/Details/110672" role="button">Book now!</a></p>
           </div>
         </div>
       </div>

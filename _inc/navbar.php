@@ -18,6 +18,7 @@
         <li<?php if ($pageName == 'directions') { ?> class="active"<?php } ?>><a href="/directions/">Directions</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
+        <li><a class="book-now" href="http://bookings.sanjuanpm.com/Unit/Details/110672" role="button">Book now!</a></li>
         <li<?php if ($pageName == 'contact') { ?> class="active"<?php } ?>><a href="/contact/">Contact</a></li>
       </ul>
     </div><!--/.nav-collapse -->
