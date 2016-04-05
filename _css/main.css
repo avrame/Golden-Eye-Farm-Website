@@ -18,6 +18,19 @@ h3 {
   color: #669;
 }
 
+.btn-book-now {
+  color: #FFF;
+  background: linear-gradient(#d9534f, #890400);
+  border-color: #d9534f;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+.btn-book-now:hover {
+  color: #FFF;
+  background: #890400;
+  border-color: #BA5A57;
+}
+
 /* Nav Bar */
 .navbar-inverse {
   background-color: #337AB7;
@@ -31,9 +44,12 @@ h3 {
 .navbar-inverse .navbar-nav > .active > a:hover {
   background-color: #286090;
 }
-.navbar-nav .book-now {
+.navbar-inverse .navbar-nav > li > a.book-now {
+  color: #f66;
   font-size: 16px;
   font-weight: bold;
+}
+.navbar-inverse .navbar-nav > li > a.book-now:hover {
   text-decoration: underline;
 }
 
@@ -45,6 +61,10 @@ h3 {
   background: transparent url(../_img/panorama.jpg) no-repeat scroll center;
   background-size: cover;
   padding: 1rem 0;
+}
+
+.jumbotron p {
+  margin-bottom: 26px;
 }
 
 .home-page .logo {
@@ -86,6 +106,7 @@ h3 {
   list-style: none;
 }
 .photo-gallery li {
+  font-style: italic;
   background-color: #FFF;
   text-align: center;
   line-height: 1.25;
@@ -121,6 +142,22 @@ h3 {
   .amenities-page .photo-gallery {
     margin-top: 116px;
   }
+}
+
+/* Contact Page */
+.contact-page p {
+  margin-bottom: 20px;
+}
+.contact-page .btn-book-now {
+  display: block;
+  width: 167px;
+  margin: 0 auto;
+}
+.contact-page .logo {
+  width: 40%;
+  min-width: 220px;
+  display: block;
+  margin: 40px auto;
 }
 
 /* Media Querie Overrides */

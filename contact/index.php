@@ -12,10 +12,15 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8">
+        <div class="main-content col-md-8">
           <h1>Contact Us</h1>
-          <p>For questions about staying at Goldeneye Farm please visit <a href="#">our VRBO page</a>, or email <a href="mailto:goldeneyefarm@gmail.com">goldeneyefarm@gmail.com</a>.</p>
-          <p><a class="btn btn-lg btn-primary" href="#" role="button">Book now on VRBO!</a></p>
+          <p>
+            For questions about staying at Goldeneye Farm please visit
+            <a href="http://bookings.sanjuanpm.com/Unit/Details/110672">our San Juan Property Management page</a>,
+            or email <a href="mailto:goldeneyefarm@gmail.com">goldeneyefarm@gmail.com</a>.
+          </p>
+          <p><a class="btn btn-lg btn-book-now" href="http://bookings.sanjuanpm.com/Unit/Details/110672" role="button">Book now!</a></p>
+          <img class="logo" id="logo" src="../_img/goldeneye-logo.png" />
         </div>
       </div>
     </div>
