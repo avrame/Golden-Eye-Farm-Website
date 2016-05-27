@@ -144,6 +144,16 @@ h3 {
   }
 }
 
+/* History Page */
+.history-page .photo-gallery {
+  margin-top: 3rem;
+}
+@media (min-width: 992px) {
+  .history-page .photo-gallery {
+    margin-top: 78px;
+  }
+}
+
 /* Contact Page */
 .contact-page p {
   margin-bottom: 20px;

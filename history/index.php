@@ -12,7 +12,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-6">
           <h1>A Short History of Goldeneye Farm</h1>
           <p>
             The land that now comprises Goldeneye Farm is part of Orcas Island’s
@@ -35,7 +35,21 @@
             added raspberry and blueberry bushes, Native Plums, Asian Plums, Sour
             Cherries, Frost Peaches, and various vegetables, herbs, and flowers.
           </p>
+          <p>
+            The cider apples from Goldeneye Farm are used in the Gold Medal
+            winning Apple Brandy Eau de Vie from Orcas Island Distillery, and can
+            be found at Eastsound Liquor, Orcas Village Store, and at Rosario's
+            Marina Cafe.
+          </p>
         </div>
+        <ul class="col-md-6 photo-gallery">
+          <li>
+            <a href="../_img/gallery/orchard.jpg" data-title="The Orchard" data-lightbox="goldeneye">
+              <img src="../_img/gallery/orchard.jpg" />
+              The Orchard
+            </a>
+          </li>
+        </ul>
       </div>
     </div>
 
