@@ -38,8 +38,9 @@
           <p>
             The cider apples from Goldeneye Farm are used in the Gold Medal
             winning Apple Brandy Eau de Vie from Orcas Island Distillery, and can
-            be found at Eastsound Liquor, Orcas Village Store, and at Rosario's
-            Marina Cafe.
+            be found at <a href="http://www.eastsoundliquorandwine.com/" target="_blank">Eastsound Liquor</a>,
+            <a href="http://www.orcasvillagestore.net/" target="_blank">Orcas Village Store</a>,
+            and at <a href="http://www.rosarioresort.com/" target="_blank">Rosario's Marina Cafe</a>.
           </p>
         </div>
         <ul class="col-md-6 photo-gallery">
