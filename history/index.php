@@ -60,5 +60,9 @@
     <script src="../_js/bootstrap/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../_js/ie10-viewport-bug-workaround.js"></script>
+
+    <!-- Other JavaScript
+    ================================================== -->
+    <script src="../_js/lightbox.min.js"></script>
   </body>
 </html>
