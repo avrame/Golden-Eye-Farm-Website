@@ -18,7 +18,10 @@
           <h2>Inside</h2>
 
           <h3>Master suite 1</h3>
-          <p>King-size bed, walk-in closet, TV and VCR. Large attached master bathroom features walk-in shower and claw-foot bathtub.</p>
+          <p>
+            King-size bed, walk-in closet, TV<sup><a href="#tv_notice">*</a></sup> and VCR. Large attached master bathroom
+            features walk-in shower and claw-foot bathtub.
+          </p>
 
           <h3>Master suite 2</h3>
           <p>Queen-size bed and antique wardrobe. Attached bathroom with bathtub and shower.</p>
@@ -33,7 +36,7 @@
           <h3>Living room</h3>
           <p>
             Large living room with dining table, cozy sitting area that includes
-            a futon, reclining chairs, TV, VCR, DVD player, sound system with
+            a futon, reclining chairs, TV<sup><a href="#tv_notice">*</a></sup>, VCR, DVD player, sound system with
             streaming music capabilities, and beautiful views of the orchard and garden.
           </p>
 
@@ -59,6 +62,8 @@
           <p>Gravel parking lot with room for 3 cars.</p>
           <p>Multiple sitting areas include large deck and covered shelter with views of garden, ponds, orchard, and meadow.</p>
           <p>Charcoal grill provided by request (if permitted by the county fire department).</p>
+
+          <small id="tv_notice"><sup>*</sup> No cable or antenna. For videos and streaming only.</small>
         </div>
 
         <ul class="col-md-5 photo-gallery">

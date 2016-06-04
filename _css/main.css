@@ -18,6 +18,11 @@ h3 {
   color: #669;
 }
 
+sup {
+  font-size: 100%;
+  position: static;
+}
+
 .btn-book-now {
   color: #FFF;
   background: linear-gradient(#d9534f, #890400);
