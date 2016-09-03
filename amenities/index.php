@@ -7,7 +7,8 @@
   <?php include('../_inc/head.php'); ?>
 
   <body class="amenities-page">
-
+    <?php include_once("../_inc/google-analytics.php") ?>
+    
     <?php include('../_inc/navbar.php'); ?>
 
     <div class="container">

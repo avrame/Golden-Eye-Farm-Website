@@ -7,6 +7,7 @@
   <?php include('../_inc/head.php'); ?>
 
   <body class="history-page">
+    <?php include_once("../_inc/google-analytics.php") ?>
 
     <?php include('../_inc/navbar.php'); ?>
 
