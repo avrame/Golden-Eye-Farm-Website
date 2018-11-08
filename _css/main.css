@@ -57,6 +57,13 @@ sup {
 .navbar-inverse .navbar-nav > li > a.book-now:hover {
   text-decoration: underline;
 }
+.vrpn {
+  color: #333;
+  font-size: 12px;
+  line-height: 1.2;
+  padding-top: 1.2rem;
+  padding-left: 1rem;
+}
 
 
 /* Home Page */

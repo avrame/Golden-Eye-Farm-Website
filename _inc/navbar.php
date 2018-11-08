@@ -20,6 +20,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a class="book-now" href="http://bookings.sanjuanpm.com/Unit/Details/110672" role="button">Book now!</a></li>
         <li<?php if ($pageName == 'contact') { ?> class="active"<?php } ?>><a href="/contact/">Contact</a></li>
+        <li class="vrpn">vacation rental permit<br>number: PPROV0-15-001</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div>
