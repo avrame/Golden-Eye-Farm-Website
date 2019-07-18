@@ -94,12 +94,12 @@
               Guest Bedroom
             </a>
           </li>
-          <li>
+          <!-- <li>
             <a href="../_img/gallery/computer-room.jpg" data-title="Office" data-lightbox="goldeneye">
               <img src="../_img/gallery/thumbs/computer-room.jpg" />
               Office
             </a>
-          </li>
+          </li> -->
         </ul>
 
         <ul class="col-sm-3">

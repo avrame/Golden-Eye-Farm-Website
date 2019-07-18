@@ -44,13 +44,13 @@
           <h3>Laundry room</h3>
           <p>Separate room with washer and dryer.</p>
 
-          <h3>Office/Library</h3>
+          <!-- <h3>Office/Library</h3>
           <p>
             Large desk area with enough space for 3 people. Features a
             state-of-the-art printer with scanning and copying capabilities and
             3 desktop computers. Large library with space for books. Beautiful
             views of two ponds and the garden.
-          </p>
+          </p> -->
 
           <h3>Extras</h3>
           <p>
